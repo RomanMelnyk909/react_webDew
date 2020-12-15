@@ -1,0 +1,19 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "Haha",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "lite",
+    "level"
+  ],
+  "author": "Iam",
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+}
